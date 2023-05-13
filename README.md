@@ -1,14 +1,14 @@
-Program description:
+## Program description:
 File transfer program that sends any file from the sender to the receiver.
 Sends with TCP or RBUDP.
 
-Run program:
+## Run program:
 
 Sender:
--make s
+-'make s'
 
 Receiver:
--make r
+-'make r'
 
 Clean:
--make clean
+-'make clean'
