@@ -5,10 +5,10 @@ Sends with TCP or RBUDP.
 ## Run program:
 
 Sender:
--'make s'
+-`make s`
 
 Receiver:
--'make r'
+-`make r`
 
 Clean:
--'make clean'
+-`make clean`
